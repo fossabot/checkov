@@ -1,7 +1,8 @@
 # Checkov
 
 [![Maintained by Bridgecrew.io](https://img.shields.io/badge/maintained%20by-bridgecrew.io-blueviolet)](https://bridgecrew.io)
-[![build status](https://github.com/bridgecrewio/checkov/workflows/build/badge.svg)](https://github.com/bridgecrewio/checkov/actions?query=workflow%3Abuild) 
+[![build status](https://github.com/bridgecrewio/checkov/workflows/build/badge.svg)](https://github.com/bridgecrewio/checkov/actions?query=workflow%3Abuild) [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjonjozwiak%2Fcheckov.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjonjozwiak%2Fcheckov?ref=badge_shield)
+
 [![code_coverage](https://raw.githubusercontent.com/bridgecrewio/checkov/master/coverage.svg?sanitize=true)](https://github.com/bridgecrewio/checkov/actions?query=workflow%3Acoverage)
 [![docs](https://img.shields.io/badge/docs-passing-brightgreen)](https://www.checkov.io/documentation)
 [![PyPI](https://img.shields.io/pypi/v/checkov)](https://pypi.org/project/checkov/)
@@ -133,3 +134,7 @@ Looking to contribute new checks? Learn how to write a new check (AKA policy) [h
 Start with our [Documentation](https://bridgecrewio.github.io/checkov/) for quick tutorials and examples.
 
 If you need direct support you can contact us at info@bridgecrew.io or [open a ticket](https://bridgecrew.zendesk.com/hc/en-us/requests/new).
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjonjozwiak%2Fcheckov.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjonjozwiak%2Fcheckov?ref=badge_large)
